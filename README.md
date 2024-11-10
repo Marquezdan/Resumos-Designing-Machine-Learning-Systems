@@ -21,7 +21,7 @@ A tarefa consistiu em resumir e explicar os principais conceitos de cada capítu
   [Link do vídeo](https://www.loom.com/share/ca6f5b0b6a71454ea34203adcd7710ed?live_rewind=1)
 
 - **Capítulo 3: Data Engineering Fundamentals**  
-  [Link do vídeo](#)
+  [Link do vídeo](https://www.loom.com/share/a2dc78456ce74d118c60b94f47c46328?sid=526f7998-2371-4667-a53f-2922c16f08af)
 
 - **Capítulo 4: Training Data**  
   [Link do vídeo](#)
