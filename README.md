@@ -18,7 +18,7 @@ A tarefa consistiu em resumir e explicar os principais conceitos de cada capítu
   [Link do vídeo](https://www.loom.com/share/c34a79d158b24c5092902ecc137b4107?sid=82b92770-d55d-475c-a90f-e64a620d5e84)
 
 - **Capítulo 2: Introduction to Machine Learning Systems Design**  
-  [Link do vídeo](#)
+  [Link do vídeo](https://www.loom.com/share/ca6f5b0b6a71454ea34203adcd7710ed?live_rewind=1)
 
 - **Capítulo 3: Data Engineering Fundamentals**  
   [Link do vídeo](#)
