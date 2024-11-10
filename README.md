@@ -5,7 +5,7 @@
 ---
 
 ## Sobre o Projeto
-Este repositório faz parte dos requisitos da disciplina de Machine Learning e aborda os principais conceitos de design de sistemas de Machine Learning, conforme discutido no livro *Designing Machine Learning Systems* de Chip Huyen. Aqui, foram criados vídeos explicativos para cada um dos cinco primeiros capítulos do livro, abordando desde a visão geral sobre sistemas de ML até os fundamentos de engenharia de dados.
+Este repositório faz parte dos requisitos da disciplina de Machine Learning e aborda os principais conceitos do livro *Designing Machine Learning Systems* de Chip Huyen. Aqui, foram criados vídeos explicativos para cada um dos cinco primeiros capítulos do livro, abordando desde a visão geral sobre sistemas de ML até os fundamentos de engenharia de dados.
 
 ## Descrição do Processo
 A tarefa consistiu em resumir e explicar os principais conceitos de cada capítulo em um vídeo de três minutos, criando um roteiro que tornasse as ideias mais acessíveis e aplicáveis. Cada vídeo destaca:
