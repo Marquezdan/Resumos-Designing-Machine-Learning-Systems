@@ -1,14 +1,14 @@
-# Machine Learning Systems Design - Coursework
+#  Designing Machine Learning Systems
 
 **Author**: [Daniel Marques da Silva]
 
 ---
 
-## Sobre o Projeto
+## Sobre o trabalho
 Este repositório faz parte dos requisitos da disciplina de Machine Learning e aborda os principais conceitos do livro *Designing Machine Learning Systems* de Chip Huyen. Aqui, foram criados vídeos explicativos para cada um dos cinco primeiros capítulos do livro, abordando desde a visão geral sobre sistemas de ML até os fundamentos de engenharia de dados.
 
 ## Descrição do Processo
-A tarefa consistiu em resumir e explicar os principais conceitos de cada capítulo em um vídeo de três minutos, criando um roteiro que tornasse as ideias mais acessíveis e aplicáveis. Cada vídeo destaca:
+A tarefa consistiu em resumir e explicar os principais conceitos de cada capítulo em um vídeo de até 5 minutos, onde cada vídeo destaca:
 1. Os conceitos fundamentais abordados em cada capítulo.
 2. Exemplos práticos e analogias para facilitar a compreensão.
 3. Pontos-chave e conclusões relevantes para a prática de ML em produção.
