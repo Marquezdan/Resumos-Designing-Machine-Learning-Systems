@@ -24,7 +24,7 @@ A tarefa consistiu em resumir e explicar os principais conceitos de cada capítu
   [Link do vídeo](https://www.loom.com/share/a2dc78456ce74d118c60b94f47c46328?sid=526f7998-2371-4667-a53f-2922c16f08af)
 
 - **Capítulo 4: Training Data**  
-  [Link do vídeo](#)
+  [Link do vídeo](https://www.loom.com/share/66ee8175493c47e58249d49eaf6e596b?sid=c79cabc6-e15e-4aca-82c3-173551951ab3)
 
 - **Capítulo 5: Feature Engineering**  
-  [Link do vídeo](#)
+  [Link do vídeo](https://www.loom.com/share/43d2fe731f2a4d0c8ab358fb1ab8f620)
